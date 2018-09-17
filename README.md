@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-This slider is for testing purposes.
-=======
-This slider is for testing purposes.
->>>>>>> refs/remotes/origin/master
+This slider is for testing purposes and can be used by anyone who needs this kind of cool slider on his website :)
+
+Enjoy.
